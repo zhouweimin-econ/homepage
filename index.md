@@ -28,10 +28,9 @@ profile_picture:
 
  <p>
  <div>Address:</div>
- <div>PKU HSBS Business School</div>
- <div>University Town</div>
- <div>Liuxian Revenue</div>
- <div>Shenzhen, China, 614000</div>
+ <div>HSBC Business School, Peking University</div>
+ <div>Room 524, University Town</div>
+ <div>Nanshan District, Shenzhen, 518055, China</div>
 </p>
 
 <p>
