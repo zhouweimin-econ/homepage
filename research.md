@@ -19,7 +19,6 @@ items:
     description: <strong>The New Classical Optimal Monetary Policy Revisited</strong> [Coming soon]
     authors: With Renbin Zhang
     numbering: 3
-    coverage: Presentations&#58; Peking University 2021*, WFA 2020*, SED 2019*, FTG-Tepper 2019*, FTG summer school 2019 (Wharton), EIEF 2019*, Minneapolis Fed 2019*, UMN brown bag 2019, U Toronto 2019*
     abstract: TBA.
   - title: Work in Progress
     description: <strong>Housing Price, Property Tax and Belief Heterogeneity</strong>  [Coming soon]
