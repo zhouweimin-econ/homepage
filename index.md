@@ -5,10 +5,35 @@ profile_picture:
   alt: website picture
 ---
 
+<strong>Welcome!</strong>
+
 <p>
-  Welcome! This site serves as an example for the Bay Jekyll theme. Bay is a very simple and minimal theme, directly inspired by Dan Grover's <a href="http://dangrover.com">website</a>.
+  I am a Ph.D Candidate at the HSBS Business School, Peking University. 
+  
+</p>
+
+
+<strong>Research interests</strong>
+
+<p>
+  Macro-Finance, Macroeconomics, and Banking
 </p>
 
 <p>
-  You can find the source code and the instructions on <a href="https://github.com/eliottvincent/bay">GitHub</a>.
+  Link to: <a href="https://www.google.com">CV</a>.
+</p>
+
+
+<strong>Contact Information:</strong>
+
+ <p>
+ <div>Address:</div>
+ <div>PKU HSBS Business School</div>
+ <div>University Town</div>
+ <div>Liuxian Revenue</div>
+ <div>Shenzhen, China, 614000</div>
+</p>
+
+<p>
+  Email: <a href="mailto:zhouweimin@stu.pku.edu.cn" target="_blank">zhouweimin@stu.pku.edu.cn</a>
 </p>
