@@ -46,6 +46,10 @@
               {% if item.award != "" and item.award != nil %}
                 <p style="margin: 0em;"> - {{ item.award }}</p>
               {% endif %}
+              <details>
+                <summary>Click for Abstract</summary>
+                  {{ item.abstract }}
+              </details>
             </span>
           </div>
           {% endfor %}
