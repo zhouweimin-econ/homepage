@@ -8,7 +8,7 @@ profile_picture:
 <strong>Welcome!</strong>
 
 <p>
-  I am a Ph.D Candidate at the HSBS Business School, Peking University. 
+  I am a Ph.D Candidate at the HSBC Business School, Peking University. 
   
 </p>
 
