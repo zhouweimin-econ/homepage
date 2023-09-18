@@ -27,7 +27,7 @@ items:
     numbering: 4
     abstract: 无形资本对企业创新和经济增长具有重要作用。准确地度量各类无形资本、更好地解释无形资本对企业行为和宏观经济发展的影响，也成为经济学研究的前沿问题之一。本文系统梳理国外宏观金融领域涉及无形资本的相关文献和最新研究进展，重点介绍各类无形资本的相关定义及其度量方式，从微观企业和宏观经济两个视角对已有文献进行归纳总结和深入分析。在微观影响方面，现有研究主要从无形资本对企业投融资、生产率水平及市场资产定价等角度进行分析。在宏观视角方面，现有文献主要聚焦于无形资本对经济增长核算、短期经济波动、市场结构变化等方面的影响。本文最后对未来研究方向进行评述与展望，同时也为落实我国企业科技创新的主体地位提供了政策启示。
   
-items: 
+progress: 
   - title: Work in Progress
     description: <strong>The New Classical Optimal Monetary Policy Revisited</strong> [Coming soon]
     authors: With <a href = "https://renbinzhang.weebly.com/" target="_blank">Renbin Zhang</a>
