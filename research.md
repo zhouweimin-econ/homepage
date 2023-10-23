@@ -36,7 +36,7 @@ progress:
   - title: Work in Progress
     description: <strong>Technological Innovation, Bank Deposits, and Systemic Risk</strong>
     numbering: 3
-    abstract: We show that the classical optimal flexible nominal price (inflation) fails to complete the market.  The nominal price that is desired to implement the complete market social planner allocations turns out to negative for some states of the economy. Incomplete market imposes the one-period forward-looking implementability constraint for the Ramsey social planner, the primal approach indicates that the Friedman Rule does not hold anymore. We formulate the recursive contract approach by imposing a lower bound of money asset and find that government optimally accumulate the public debt and the tax rate featuring incomplete market emerge.
+    abstract: This paper investigates the role of bank's use of new technologies under China's interest-rate based monetary transmission. Using a bank-panel dataset merged bank patent applications, I document that during monetary expansion, banks with higher technological innovations attract more deposits with fewer interest expenses since their deposits contain more demand deposits with higher liquidity. Moreover, banks with higher innovations accumulate larger systemic risks, especially during economic downturns.
 ---
 
 <br />
