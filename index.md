@@ -20,7 +20,7 @@ profile_picture:
 </p>
 
 <p>
-  Link to: <a href="https://www.dropbox.com/scl/fi/blwufukyea16g1xjsjwz8/CV_ZWM_202310.pdf?rlkey=rgr166o8rahq1r1mi2tzmh18o&dl=0">CV</a>.
+  Link to: <a href="https://github.com/zhouweimin-econ/homepage/blob/master/assets/CV_ZWM_202310.pdf">CV</a>.
 </p>
 
 
