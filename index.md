@@ -20,7 +20,7 @@ profile_picture:
 </p>
 
 <p>
-  Link to: [CV](./assets/CV_ZWM_202310.pdf).
+  Link to: <a href="./assets/CV_ZWM_202310.pdf" target="_blank">CV</a>.
 </p>
 
 
