@@ -20,7 +20,7 @@ profile_picture:
 </p>
 
 <p>
-  Link to: <a href="https://github.com/zhouweimin-econ/homepage/blob/master/assets/CV_ZWM_202310.pdf">CV</a>.
+  Link to: [CV](/assets/CV_ZWM_202310.pdf).
 </p>
 
 
