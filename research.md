@@ -4,8 +4,8 @@ title: Research
 slug: /Research
 
 items:
-  - title: JMP
-    description: <strong>Banking Innovations in China&#58; Evidence and Welfare Implications</strong> [<a href="./assets/BankInnov_WXZ2023.pdf" target="_blank">pdf</a>]  
+  - title: JMP 
+    description: <strong>Banking Innovations in China&#58; Evidence and Welfare Implications</strong> [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4617083" target="_blank">SSRN link</a>]  
     authors: with <a href = "https://sites.google.com/site/wangyicheng1192/" target="_blank">Yicheng Wang</a> and <a href = "https://xuzhiwei09.wixsite.com/econ/research" target="_blank">Zhiwei Xu</a> 
     numbering: 1
     coverage: Selected Presentations&#58; Peking University PHBS Macro-Finance Reading Group; 7th Peking-NUS Annual conference; Sargent Institute of Quantitative Economics and Finance Workshop; 6th China and Development Annual Conference (Shanghai Jiao Tong U) 2023; CICM 2023; CFRC 2023
