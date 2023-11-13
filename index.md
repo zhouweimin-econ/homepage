@@ -8,7 +8,7 @@ profile_picture:
 <strong>Welcome!</strong>
 
 <p>
-  I am a Ph.D candidate at Peking University, HSBC Business School. I am on the 2022-23 job market and available for on-site interviews at 2023 CEA (Wuhan) and 2023 CICE (Shanghai).
+  I am a Ph.D candidate at Peking University, HSBC Business School. I am on the 2023-24 job market and available for on-site interviews at 2023 CEA (Wuhan) and 2023 CICE (Shanghai).
   
 </p>
 
