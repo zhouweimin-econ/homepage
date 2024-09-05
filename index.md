@@ -1,22 +1,20 @@
 ---
 layout: home
 profile_picture:
-  src: /assets/img/foto.png
+  src: /assets/img/foto.jpg
   alt: website picture
 ---
 
 <strong>Welcome!</strong>
 
 <p>
-  I am a Ph.D candidate at Peking University, HSBC Business School. I am on the 2023-24 job market and available for on-site interviews at 2023 CEA (Wuhan) and 2023 CICE (Shanghai).
-  
+  I am an assistant professor in Economics at Sichuan University, School of Economics. I obtained my Ph.D. from Peking University in July, 2024.
 </p>
 
-
-<strong>Research interests</strong>
+<strong>Research Interests</strong>
 
 <p>
-  Macro-Finance, Macroeconomics, and Banking
+  Macro-Finance, Monetary Policy, and Banking
 </p>
 
 <p>
@@ -27,11 +25,10 @@ profile_picture:
 <strong>Contact Information:</strong>
 
  <p>
- <div>HSBC Business School, Peking University</div>
- <div>Room 524, University Town</div>
- <div>Nanshan District, Shenzhen, 518055, China</div>
+ <div>Room 606, School of Economics, Sichuan University</div>
+ <div>No.29 Wangjiang Road, Chengdu, 610064 China</div>
 </p>
 
 <p>
-  Email: <a href="mailto:zhouweimin@stu.pku.edu.cn" target="_blank">zhouweimin@stu.pku.edu.cn</a>
+  Email: <a href="mailto:zhouweimin@scu.edu.cn" target="_blank">zhouweimin@scu.edu.cn</a>
 </p>
