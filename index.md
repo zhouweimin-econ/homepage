@@ -18,7 +18,7 @@ profile_picture:
 </p>
 
 <p>
-  Link to: <a href="./assets/CV_ZWM_202310.pdf" target="_blank">CV</a>.
+  Link to <a href="https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=6252324" target="_blank">SSRN</a>.
 </p>
 
 
