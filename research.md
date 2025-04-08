@@ -13,7 +13,7 @@ items:
     
   - title: Working Paper
     description: <strong>Firm Intangible Capital, Loan Contracts, and Monetary Policy</strong> [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5129815" target="_blank">SSRN link</a>] 
-    authors:  R&R Journal of Corporate Finance
+    publication: R&R Journal of Corporate Finance
     authors: with <a href = "https://renbinzhang.weebly.com/" target="_blank">Renbin Zhang</a>
     numbering: 2  
     abstract: This paper examines the role of debt contracts and intangible capital in the transmission of monetary policy to firm-level investment. Based on an analysis of US non-financial firm-level data, we find that, in response to a contractionary monetary shock, cash flow-based borrowers with a relatively higher proportion of intangible assets experience a sharper contraction in investment than others. However, for asset-based borrowers, firms' investment responses to monetary policy shocks do not vary with the proportion of intangible assets. A heterogeneous firm model, which features the coexistence of multiple debt contracts and investment portfolio choices, can explain our empirical findings.
