@@ -24,12 +24,12 @@
               {% if item.award != "" and item.award != nil %}
                 <p style="margin: 0em;"> - {{ item.award }}</p>
               {% endif %}
+              {% if item.abstract  != "" and item.abstract != nil %%} 
               <details>
-                 {% if item.abstract != "" and item.abstract != nil %}
-                 <summary>Click for Abstract</summary>
-                  {{ item.abstract }}
-              {% endif %}
+                <summary>Click for Abstract</summary>
+                {{ item.abstract }}
               </details>
+              {% endif %} 
             </span>
           </div>
           {% endfor %} 
