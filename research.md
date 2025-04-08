@@ -13,7 +13,7 @@ items:
     
   - title: Working Paper
     description: <strong>Firm Intangible Capital, Loan Contracts, and Monetary Policy</strong> [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5129815" target="_blank">SSRN link</a>] 
-    publication: R&R Journal of Corporate Finance
+    publication: <strong> Revise & Resubmit at Journal of Corporate Finance</strong>
     authors: with <a href = "https://renbinzhang.weebly.com/" target="_blank">Renbin Zhang</a>
     numbering: 2  
     abstract: This paper examines the role of debt contracts and intangible capital in the transmission of monetary policy to firm-level investment. Based on an analysis of US non-financial firm-level data, we find that, in response to a contractionary monetary shock, cash flow-based borrowers with a relatively higher proportion of intangible assets experience a sharper contraction in investment than others. However, for asset-based borrowers, firms' investment responses to monetary policy shocks do not vary with the proportion of intangible assets. A heterogeneous firm model, which features the coexistence of multiple debt contracts and investment portfolio choices, can explain our empirical findings.
@@ -24,6 +24,14 @@ items:
     numbering: 3  
     abstract: This paper examines the relationship between monetary policy, firm investmentdecisions, and rational inattention. By analyzing firms’ 10-K and 10-Q reports, wemeasure attention allocation and demonstrate that firms paying greater attention toinflation experience a more significant impact of monetary policy on their investmentdecisions. Additionally, we demonstrate that industries with higher average attentionto inflation adjust their prices more significantly in response to economic changes. Wedevelop a two-period model showing that firms with greater attention to macroeco-nomic factors adjust prices more quickly to monetary policy shocks, ultimately reduc-ing the magnitude of their investment adjustments. Our findings highlight the criticalroles of information frictions and attention heterogeneity in understanding monetary policy transmission.
 
+  - title: Working Paper
+    description: 李兆睿、<strong>周伟岷</strong>、许志伟，<strong>数字经济中的货币政策研究</strong>，2025，《经济研究》修改再审。
+    numbering: 4 
+
+  - title: Working Paper
+    description: <strong>周伟岷</strong>、陈永乔、周晶，<strong>金融摩擦的宏观影响与政策评估——基于异质性企业的结构估计模型</strong>，2025，《系统工程理论与实践》修改再审。
+    numbering: 5 
+    
 publica:
   - title:  Publication
     description: <strong>无形资本研究的新进展</strong>  [<a href="https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKu87-SJxoEJu6LL9TJzd50n7EU_Z-wbXjVnTl-EciK_82pVq4ACueKl8_ZN2K3xnp4LkjadPV6BJ&uniplatform=NZKPT" target="_blank">pdf</a>]
