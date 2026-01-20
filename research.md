@@ -9,28 +9,24 @@ items:
     authors: with <a href = "https://sites.google.com/site/wangyicheng1192/" target="_blank">Yicheng Wang</a> and <a href = "https://xuzhiwei09.wixsite.com/econ/research" target="_blank">Zhiwei Xu</a> 
     numbering: 1
     coverage: Selected Presentations&#58; Peking University PHBS Macro-Finance Reading Group; 7th Peking-NUS Annual conference; Sargent Institute of Quantitative Economics and Finance Workshop; 6th China and Development Annual Conference (Shanghai Jiao Tong U) 2023; CICM 2023; CFRC 2023
-    abstract: Understanding the impacts of new technology and innovations on the banking sector is important and of growing interest. However, there is limited research on the detailed channels of the impacts, and consequently, the evaluations for the aggregate welfare implications. We contribute both empirically and quantitatively. We use bank panel dataset and construct a new measure of overall banking innovations to document that banking innovations can reduce marginal net costs, which improve efficiency and may unintended increase bank risk-taking. We show the finding is quite robust under a battery of checks. In a new structural, quantitative model, banks with heterogeneous capital choose investment in innovation and also risky lending, face regulations on the capital requirement and have limited liability. When aggregate new technology improves, it can reduce financial intermediation costs and social deadweight loss; however, it will also change the bank's risk consideration and increases moral hazard when the cost is largely reduced. We also find several other new implications for R\&D investment credit policy and Capital Requirement policy.
     
-  - title: Working Paper
-    description: <strong>Firm Intangible Capital, Loan Contracts, and Monetary Policy</strong> [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5129815" target="_blank">SSRN link</a>] 
-    publication: Revise & Resubmit at Journal of Corporate Finance
-    authors: with <a href = "https://renbinzhang.weebly.com/" target="_blank">Renbin Zhang</a>
-    numbering: 2  
-    abstract: This paper examines the role of debt contracts and intangible capital in the transmission of monetary policy to firm-level investment. Based on an analysis of US non-financial firm-level data, we find that, in response to a contractionary monetary shock, cash flow-based borrowers with a relatively higher proportion of intangible assets experience a sharper contraction in investment than others. However, for asset-based borrowers, firms' investment responses to monetary policy shocks do not vary with the proportion of intangible assets. A heterogeneous firm model, which features the coexistence of multiple debt contracts and investment portfolio choices, can explain our empirical findings.
-
   - title: Working Paper
     description: <strong>Monetary Policy, Investment and Rational Inattention</strong> [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5005981" target="_blank">SSRN link</a>] 
     authors: with <a href = "https://renbinzhang.weebly.com/" target="_blank">Renbin Zhang</a> and <a href = "https://zijianwang.weebly.com/research.html" target="_blank">Zijian Wang</a> 
-    numbering: 3  
-    abstract: This paper examines the relationship between monetary policy, firm investmentdecisions, and rational inattention. By analyzing firms’ 10-K and 10-Q reports, wemeasure attention allocation and demonstrate that firms paying greater attention toinflation experience a more significant impact of monetary policy on their investmentdecisions. Additionally, we demonstrate that industries with higher average attentionto inflation adjust their prices more significantly in response to economic changes. Wedevelop a two-period model showing that firms with greater attention to macroeco-nomic factors adjust prices more quickly to monetary policy shocks, ultimately reduc-ing the magnitude of their investment adjustments. Our findings highlight the criticalroles of information frictions and attention heterogeneity in understanding monetary policy transmission.
+    numbering: 2  
 
   - title: Working Paper
     description: 李兆睿、<strong>周伟岷</strong>、许志伟，数字经济中的货币政策研究，2025，《经济研究》修改再审。
-    numbering: 4 
+    numbering: 3 
 
 
-    
 publica:
+  - title:  Publication
+    description: Firm Intangible Capital, Loan Contracts, and Monetary Policy (with <a href = "https://renbinzhang.weebly.com/" target="_blank">Renbin Zhang</a>)  <strong>Journal of Corporate Finance</strong>, 2026.
+
+  - title:  Publication
+    description: The Hysteresis Effects of Investment Shocks in China (with Yake Wen and Zixiang Zhu)  <strong>China Economic Review</strong>, 2026.
+  
   - title:  Publication
     description: <strong>周伟岷</strong>, 陈永乔, 周晶. 金融摩擦的宏观影响与政策评估—基于异质性企业的结构估计模型, 《系统工程理论与实践》, forthcoming.
   
