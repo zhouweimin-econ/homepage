@@ -8,48 +8,51 @@
     <div class="page-content">
       <div class="wrapper">
         <div class="work">
-          <h1 class="page-heading">Working Papers</h1>        
-           {% for item in page.items %}
-          <div class="work-item" style="margin-bottom: -2em;">
-            <span class="work-text">
-              <span style="color:#66DFCC;background-color:#E9FFE9"><strong>&nbsp;{{ item.numbering }}&nbsp;</strong></span>
-              {{ item.description }}<br />
-              {% if item.authors != "" and item.authors != nil %}
-                {{ item.authors }}<br />
-              {% endif %}
-              {% if item.publication != "" and item.publication != nil %}
-                {{ item.publication }}<br />
-              {% endif %}
-              {% if item.coverage != "" and item.coverage != nil %}
-                <p style="margin: 0em;"> - {{ item.coverage }}</p>
-              {% endif %}
-              {% if item.award != "" and item.award != nil %}
-                <p style="margin: 0em;"> - {{ item.award }}</p>
-              {% endif %}
-            </span>
-          </div>
-          {% endfor %} 
-          <h1 class="page-heading">Publications</h1>        
-           {% for item in page.publica %}
-          <div class="work-item" style="margin-bottom: -2em;">
-            <span class="work-text">
-              <span style="color:#66DFCC;background-color:#E9FFE9"><strong>&nbsp;{{ item.numbering }}&nbsp;</strong></span>
-              {{ item.description }}<br />
-              {{ item.authors }}<br />
-              {% if item.publication != "" and item.publication != nil %}
-                {{ item.publication }}<br />
-              {% endif %}
-              {% if item.coverage != "" and item.coverage != nil %}
-                <p style="margin: 0em;"> - {{ item.coverage }}</p>
-              {% endif %}
-              {% if item.award != "" and item.award != nil %}
-                <p style="margin: 0em;"> - {{ item.award }}</p>
-              {% endif %}
-              
-            </span>
-          </div>
+          {% assign sections = "items,publica,work_in_progress" | split: "," %}
+          {% for section in sections %}
+            {% if page[section].size > 0 %}
+              {% case section %}
+                {% when "items" %}{% assign section_title = "Working Papers" %}
+                {% when "publica" %}{% assign section_title = "Publications" %}
+                {% when "work_in_progress" %}{% assign section_title = "Work in Progress" %}
+              {% endcase %}
+              <section aria-labelledby="{{ section }}-heading">
+                <h1 class="page-heading" id="{{ section }}-heading">{{ section_title }}</h1>
+                {% for item in page[section] %}
+                  <div class="work-item">
+                    <div class="work-text">
+                      <span style="color:#66DFCC;background-color:#E9FFE9"><strong>&nbsp;{{ item.numbering }}&nbsp;</strong></span>
+                      {{ item.description }}<br />
+                      {% if item.authors != "" and item.authors != nil %}
+                        {{ item.authors }}<br />
+                      {% endif %}
+                      {% if item.publication != "" and item.publication != nil %}
+                        {{ item.publication }}<br />
+                      {% endif %}
+                      {% if item.coverage != "" and item.coverage != nil %}
+                        <p style="margin: 0em;"> - {{ item.coverage }}</p>
+                      {% endif %}
+                      {% if item.award != "" and item.award != nil %}
+                        <p style="margin: 0em;"> - {{ item.award }}</p>
+                      {% endif %}
+                      {% if item.abstract != "" and item.abstract != nil %}
+                        <details class="research-toggle">
+                          <summary>Abstract</summary>
+                          <p>{{ item.abstract | escape }}</p>
+                        </details>
+                      {% endif %}
+                      {% if item.summary != "" and item.summary != nil %}
+                        <details class="research-toggle">
+                          <summary>Summary</summary>
+                          <p>{{ item.summary | escape }}</p>
+                        </details>
+                      {% endif %}
+                    </div>
+                  </div>
+                {% endfor %}
+              </section>
+            {% endif %}
           {% endfor %}
-         
         </div>
       </div>
     </div>
