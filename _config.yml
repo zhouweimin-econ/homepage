@@ -4,7 +4,7 @@
 title: Weimin Zhou
 description: >- # this means to ignore newlines until "baseurl:"
   Econ Ph.D Candidate, Peking University HSBC Business School
-baseurl: "/homepage" # the subpath of the site
+baseurl: "" # User site: publish from the zhouweimin-econ.github.io repository
 url: "https://zhouweimin-econ.github.io" # the base hostname & protocol for the site
 og_image: /assets/img/profile-pic.jpg
 google_analytics: "UA-282664181-1"

@@ -1,3 +1,22 @@
+# 个人主页部署
+
+目标网址：https://zhouweimin-econ.github.io/
+
+此源码已配置为 GitHub Pages 用户主页（`baseurl: ""`）。必须配合以下仓库设置，不能只将修改上传到仍名为 `homepage` 的项目仓库。
+
+1. 打开 GitHub 上的 `zhouweimin-econ/homepage` 仓库，在 **Settings → General → Repository name** 将仓库改名为 **zhouweimin-econ.github.io**。如果该名字已被占用，请先检查现有同名仓库，不要覆盖或删除它。
+2. 将本地修改的 `_config.yml`、新增的 `homepage.html` 和此 `README.md` 提交到改名后的仓库，放在原有源码的根目录。
+3. 在 **Settings → Pages → Build and deployment** 中选择 **Deploy from a branch**，选择实际存放网站源码的分支（例如 `master` 或 `main`），目录选择 **/(root)**，然后保存。
+4. 等待 Pages 构建和部署成功，访问根网址，检查 Home、Research、Teaching，以及图片、样式和课程 PDF。发布可能需要约 10 分钟；若失败，查看仓库 Actions 中的构建日志。
+
+`homepage.html` 会在新站生成 `/homepage/`，将旧首页地址跳转到根网址；它不负责旧 Research、Teaching 等深层链接的迁移。
+
+本地下载的源码文件夹名称无需修改。修改本地文件不会自动更新 GitHub，也不会自动更改线上仓库名称。
+
+官方说明：https://docs.github.com/en/pages/quickstart
+
+---
+
 # Bay
 
 [![Version](https://img.shields.io/gem/v/bay_jekyll_theme)](https://rubygems.org/gems/bay_jekyll_theme)
