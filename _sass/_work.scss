@@ -10,3 +10,41 @@
   width: 100px;
   height: 100px;
 }
+
+.work .work-item {
+  overflow: visible;
+  padding-bottom: 1em;
+}
+
+.work section + section {
+  margin-top: 1em;
+}
+
+.research-toggle {
+  margin-top: 0.4em;
+
+  > summary {
+    width: fit-content;
+    padding: 0.15em 0.65em;
+    border: 1px solid #d8cbd3;
+    border-radius: 4px;
+    color: #7d6075;
+    background-color: #faf7f9;
+    cursor: pointer;
+
+    &:hover {
+      background-color: #f0e8ed;
+    }
+
+    &:focus-visible {
+      outline: 2px solid #7d6075;
+      outline-offset: 2px;
+    }
+  }
+
+  > p {
+    margin: 0.6em 0 0;
+    padding: 0.25em 1em;
+    border-left: 2px solid #d8cbd3;
+  }
+}
